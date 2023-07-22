@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Soy Ariel Romero, un apasionado por los negocios y la tecnología.<br>Me especializo en Ciencia de Datos y como tal manejo las siguientes herramientas:<br>Python, SQL, Apache, Spark, Docker, Hadoop, Power Bi, Google Analytics, Machine Learning y Big Data.<br><br>Me encanta colaborar en equipo y enfrentar desafíos diarios junto a compañeros.<br><br>¡Estoy entusiasmado por las oportunidades que el campo de la Ciencia de Datos ofrece y estoy listo para enfrentar nuevos desafíos junto a un equipo dinámico! 
+Hola! Soy Ariel Romero, un apasionado por los negocios y la tecnología.<br>Me especializo en Analisis de Datos y como tal manejo las siguientes herramientas:<br>Python, SQL, Apache, Spark, Docker, Hadoop, Power Bi, Google Analytics, Machine Learning y Big Data.<br><br>Me encanta colaborar en equipo y enfrentar desafíos diarios junto a compañeros.<br><br>¡Estoy entusiasmado por las oportunidades que el campo de la Ciencia de Datos ofrece y estoy listo para enfrentar nuevos desafíos junto a un equipo dinámico! 
 
 
 ## 🌐 Socials:
