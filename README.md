@@ -18,6 +18,3 @@ Hola! Soy Ariel Romero, un apasionado por los negocios y la tecnología.<br>Me e
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=Mapasho&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
