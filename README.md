@@ -12,9 +12,3 @@ Hola! Soy Ariel Romero, un apasionado por los negocios y la tecnología.<br>Me e
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mapasho&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mapasho&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mapasho&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
----
-
-
